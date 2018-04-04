@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bienenbeuten"
+categories: Imkerei
+tags:
+  - Beuten
+  - Korb
+---
+Auf dieser Seite stelle ich Bienenbeuten vor.
