@@ -23,9 +23,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AbererEugen
 github_username:  augartengold
 
-remote_theme: fongandrew/hydeout
-#remote-theme: fongandrew/jekyll-theme-hydeout
-
 author:
   name: 'Eugen Aberer'
   url:  https://twitter.com/AbererEugen
@@ -36,7 +33,14 @@ paginate:         5
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hydeout
+
+#theme: jekyll-theme-hydeout
+
+remote_theme: fongandrew/hydeout
+#remote-theme: fongandrew/jekyll-theme-hydeout
+
+
+
 plugins:
   - jekyll-feed
   - jekyll-gist
