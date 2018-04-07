@@ -23,6 +23,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AbererEugen
 github_username:  augartengold
 
+remote-theme: jekyll-theme-hydeout
+
 author:
   name: 'Eugen Aberer'
   url:  https://twitter.com/AbererEugen
