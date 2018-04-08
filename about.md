@@ -10,3 +10,5 @@ sidebar_link: true
 
 Mein Name ist...
 
+Kontaktieren sie mich unter: 
+![email]({{ "/assets/images/internal/mail.png" }})
