@@ -39,8 +39,6 @@ markdown: kramdown
 remote_theme: fongandrew/hydeout
 #remote-theme: fongandrew/jekyll-theme-hydeout
 
-
-
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -61,9 +59,11 @@ plugins:
 # Custom vars
 # version:            3.5.3
 sidebar_home_link:  true
-sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+sidebar_blog_link:  '/blog'     # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 #github:
-#  repo: https://github.com/augartengold
+# repo: https://github.com/augartengold
+
+google_analytics: UA-117283278-1
