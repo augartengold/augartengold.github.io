@@ -47,3 +47,4 @@ Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter ht
 Sie haben jederzeit das Recht auf Auskunft über die bezüglich Ihrer Person gespeicherten Daten, deren Herkunft und Empfänger sowie den Zweck der Speicherung.
 
 ## Bildnachweise
+Eugen Aberer
