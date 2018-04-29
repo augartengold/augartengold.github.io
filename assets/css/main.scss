@@ -4,20 +4,5 @@
 
 $sidebar-bg-color: #1e434c;
 $sidebar-sticky: false;
-$sidebar-title-color: #c99e10;
+$sidebar-title-color: #FFD700;
 @import "hydeout";
-
-
-.home #sidebar { 
-  /*text-align: center;*/
-}
-
-/*
-.message {
-  background-color: #D5AD6D; 
-}
-*/
-
-#sidebar .site-title a { 
-  color:	#FFD700; /*fallback for missing background-clip*/
-}

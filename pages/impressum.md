@@ -6,9 +6,9 @@ sidebar_link: true
 
 Impressum von [https://augartengold.at](https://augartengold.at)
 
-Eugen Aberer<br>
+IM Eugen Aberer<br>
 Novaragasse 14/16, 1020 Wien, Österreich<br>
-E-Mail: ![email]({{ "/assets/images/internal/mail.png" }})
+E-Mail: ![email]({{ "/assets/images/internal/email.png" }})
 
 Informationspflicht laut §5 E-Commerce Gesetz, §14 Unternehmensgesetzbuch, §63 Gewerbeordnung und Offenlegungspflicht laut §25 Mediengesetz
 Quelle: Impressum mit Hilfe der Impressum-Vorlage von firmenwebseiten.at erstellt in Kooperation mit AboutBusiness.

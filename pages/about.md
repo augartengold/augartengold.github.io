@@ -4,11 +4,15 @@ title: Über mich
 sidebar_link: true
 ---
 
+<!--
 <p class="message">
   Ein gutes Zitat...
 </p>
+-->
 
-Mein Name ist...
+Mein Name ist IM Eugen Aberer.
 
-Kontaktieren sie mich unter: 
-![email]({{ "/assets/images/internal/mail.png" }})
+Diese Seite ist in Bearbeitung.
+
+Bitte kontaktieren sie mich unter: 
+![email]({{ "/assets/images/internal/email.png" }})
