@@ -8,3 +8,5 @@ title: Home
 </p>
 
 ![Augarten Ansicht]({{ "/assets/images/augarten.jpg" }})
+
+Diese Seite ist in Bearbeitung.
