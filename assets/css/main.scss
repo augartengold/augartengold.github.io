@@ -6,3 +6,8 @@ $sidebar-bg-color: #1e434c;
 $sidebar-sticky: false;
 $sidebar-title-color: #FFD700;
 @import "hydeout";
+
+.gold-message {
+    @extend .message;
+    background-color:gold;
+  }

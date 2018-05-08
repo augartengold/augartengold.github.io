@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<p class="message">
+<p class="gold-message">
     Goldene Quelle für Ideen zur erfolgreichen, modernen Imkerei
 </p>
 
