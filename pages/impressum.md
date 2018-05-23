@@ -50,7 +50,7 @@ Ihnen stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Ei
 ## TLS-Verschlüsselung mit https
 Wir verwenden https um Daten abhörsicher im Internet zu übertragen. Durch den Einsatz von TLS (Transport Layer Security), einem Verschlüsselungsprotokoll zur sicheren Datenübertragung im Internet können wir den Schutz vertraulicher Daten sicherstellen. Sie erkennen die Benutzung dieser Absicherung der Datenübertragung am kleinen Schloßsymbol links oben im Browser und der Verwendung des Schemas https als Teil unserer Internetadresse.
 
-## Cookies
+## <a id="cookies"></a>Cookies
 Unsere Website verwendet HTTP-Cookies um nutzerspezifische Daten zu speichern.
 Ein Cookie ist ein kurzes Datenpaket, welches zwischen Webbrowser und Webserver ausgetauscht wird, für diese aber völlig bedeutungslos ist und erst für die Webanwendung, z. B. einen Online-Shop, eine Bedeutung erhält, etwa den Inhalt eines virtuellen Warenkorbes.
 Es gibt zwei Arten von Cookies: Erstanbieter-Cookies werden von unserer Website erstellt, Drittanbieter-Cookies werden von anderen Websites (z. B. Google Analytics) erstellt.
