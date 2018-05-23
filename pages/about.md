@@ -10,9 +10,10 @@ sidebar_link: true
 </p>
 -->
 
-Mein Name ist IM Eugen Aberer.
+Mein Name ist IM Eugen Aberer. Dies ist meine private Webseite.
 
 Diese Seite ist in Bearbeitung.
 
 Bitte kontaktieren sie mich unter: 
 ![email]({{ "/assets/images/internal/email.png" }})
+ 

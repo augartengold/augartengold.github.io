@@ -4,47 +4,63 @@ title: Impressum
 sidebar_link: true
 ---
 
-Impressum von [https://augartengold.at](https://augartengold.at)
+[https://augartengold.at](https://augartengold.at) ist die private Webseite von IM Eugen Aberer.
+
+Informationspflicht laut §5 E-Commerce Gesetz, §14 Unternehmensgesetzbuch, §63 Gewerbeordnung und Offenlegungspflicht laut §25 Mediengesetz.
 
 IM Eugen Aberer<br>
 Novaragasse 14/16, 1020 Wien, Österreich<br>
+Telefon: 0043 677 61142861<br>
 E-Mail: ![email]({{ "/assets/images/internal/email.png" }})
 
-Informationspflicht laut §5 E-Commerce Gesetz, §14 Unternehmensgesetzbuch, §63 Gewerbeordnung und Offenlegungspflicht laut §25 Mediengesetz
-Quelle: Impressum mit Hilfe der Impressum-Vorlage von firmenwebseiten.at erstellt in Kooperation mit AboutBusiness.
+Quelle: Erstellt mit dem Impressum Generator von firmenwebseiten.at in Kooperation mit pro-vital.de
 
-## Haftungsausschluss
-Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Webseite verwiesen wurde. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.
+## EU-Streitschlichtung
+Angaben zur Online-Streitbeilegung: Verbraucher haben die Möglichkeit, Beschwerden an die OnlineStreitbeilegungsplattform der EU zu richten: https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=DE. Sie können allfällige Beschwerde auch an die oben angegebene E-Mail-Adresse richten.
 
 ## Haftung für Inhalte dieser Webseite
-Die Inhalte dieser Webseite wurden mit größtmöglicher Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte übernehmen wir jedoch keine Gewähr. Als Diensteanbieter sind wir für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Wir sind jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+Wir entwickeln die Inhalte dieser Webseite ständig weiter und bemühen uns korrekte und aktuelle Informationen bereitzustellen. Leider können wir keine Haftung für die Korrektheit aller Inhalte auf dieser Webseite übernehmen, speziell für jene die seitens Dritter bereitgestellt wird. Sollten Ihnen problematische oder rechtswidrige Inhalte auffallen, bitte wir Sie uns umgehend zu kontaktieren, Sie finden die Kontaktdaten im Impressum.
 
-## Haftung für Links auf Webseiten Dritter
-Unser Angebot enthält Links zu externen Websites. Auf den Inhalt dieser externen Webseiten haben wir keinerlei Einfluss. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+## Haftung für Links auf dieser Webseite
+Unsere Webseite enthält Links zu anderen Webseiten für deren Inhalt wir nicht verantwortlich sind. Wenn Ihnen rechtswidrige Links auf unserer Webseite auffallen, bitte wir Sie uns zu kontaktieren, Sie finden die Kontaktdaten im Impressum.
 
-## Urheberrecht
-Die Betreiber dieser Webseite sind bemüht, stets die Urheberrechte anderer zu beachten bzw. auf selbst erstellte sowie lizenzfreie Werke zurückzugreifen. Die durch die Seitenbetreiber erstellten Inhalte und Werke auf dieser Webseite unterliegen dem Urheberrecht. Beiträge Dritter sind als solche gekennzeichnet. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
+## Urheberrechtshinweis
+Alle Inhalte dieser Webseite (Bilder, Fotos, Texte, Videos) unterliegen dem Urheberrecht. Falls notwendig, werden wir die unerlaubte Nutzung von Teilen der Inhalte unserer Seite rechtlich verfolgen.
 
-## Datenschutzerklärung
-Wir legen großen Wert auf den Schutz Ihrer Daten. Um Sie in vollem Umfang über die Verwendung personenbezogener Daten zu informieren, bitten wir Sie die folgenden Datenschutzhinweise zur Kenntnis zu nehmen.
+## Bildernachweis
+Die Bilder, Fotos und Grafiken auf dieser Webseite sind urheberrechtlich geschützt.
 
-## Persönliche Daten
-Persönliche Daten, die Sie auf dieser Website elektronisch übermitteln, wie zum Beispiel Name, E-Mail-Adresse, Adresse oder andere persönlichen Angaben, werden von uns nur zum jeweils angegebenen Zweck verwendet, sicher verwahrt und nicht an Dritte weitergegeben. Der Provider erhebt und speichert automatisch Informationen am Webserver wie verwendeter Browser, Betriebssystem, Verweisseite, IP-Adresse, Uhrzeit des Zugriffs usw. Diese Daten können ohne Prüfung weiterer Datenquellen keinen bestimmten Personen zugeordnet werden und wir werten diese Daten auch nicht weiter aus solange keine rechtswidrige Nutzung unserer Webseite vorliegt.
-
-## Formulardaten und Kommentare
-Wenn Webseitenbesucher Kommentare oder Formulareinträge hinterlassen, werden die eingegebenen Daten und ihre IP-Adressen gespeichert. Das erfolgt zur Sicherheit, falls jemand widerrechtliche Inhalte verfasst (Beleidigungen, links- oder rechtsextreme Propaganda, Hasspostings usw.). In diesem Fall sind wir an der Identität des Verfassers interessiert.
-
-## <a id="cookies"></a>Cookies
-Cookies sind kleine Dateien, die es dieser Webseite ermöglichen auf dem Computer des Besuchers spezifische, auf den Nutzer bezogene Informationen zu speichern, während unsere Website besucht wird. Cookies helfen uns dabei, die Nutzungshäufigkeit und die Anzahl der Nutzer unserer Internetseiten zu ermitteln, sowie unsere Angebote für Sie komfortabel und effizient zu gestalten. Wir verwenden einerseits Session-Cookies, die ausschließlich für die Dauer Ihrer Nutzung unserer Website zwischengespeichert werden und zum anderen permanente Cookies, um Informationen über Besucher festzuhalten, die wiederholt auf unsere Website zugreifen. Der Zweck des Einsatzes dieser Cookies besteht darin, eine optimale Benutzerführung anbieten zu können sowie Besucher wiederzuerkennen und bei wiederholter Nutzung eine möglichst attraktive Website und interessante Inhalte präsentieren zu können. Der Inhalt eines permanenten Cookies beschränkt sich auf eine Identifikationsnummer. Name, IP-Adresse usw. werden nicht gespeichert. Eine Einzelprofilbildung über Ihr Nutzungsverhalten findet nicht statt. Eine Nutzung unserer Angebote ist auch ohne Cookies möglich. Sie können in Ihrem Browser das Speichern von Cookies deaktivieren, auf bestimmte Webseiten beschränken oder Ihren Webbrowser (Chrome, IE, Firefox,…) so einstellen, dass er sie benachrichtigt, sobald ein Cookie gesendet wird. Sie können Cookies auch jederzeit von der Festplatte ihres PC löschen. Bitte beachten Sie aber, dass Sie in diesem Fall mit einer eingeschränkten Darstellung der Seite und mit einer eingeschränkten Benutzerführung rechnen müssen.
-
-## Datenschutzerklärung für die Nutzung von Google Analytics
-Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link
-[https://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de) verfügbare Browser-Plugin herunterladen und installieren.
-
-Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter [https://www.google.com/analytics/terms/de.html](https://www.google.com/analytics/terms/de.html) bzw. unter [https://support.google.com/analytics/answer/6004245?hl=de](https://support.google.com/analytics/answer/6004245?hl=de). Wir weisen Sie darauf hin, dass auf dieser Webseite Google Analytics um den Code „gat._anonymizeIp();“ erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sog. IP-Masking) zu gewährleisten.
-
-## Auskunftsrecht
-Sie haben jederzeit das Recht auf Auskunft über die bezüglich Ihrer Person gespeicherten Daten, deren Herkunft und Empfänger sowie den Zweck der Speicherung.
-
-## Bildnachweise
+Die Bilderrechte liegen bei den folgenden Fotografen und Unternehmen:
 Eugen Aberer
+
+# Datenschutzerklärung
+## Datenschutz
+Wir haben diese Datenschutzerklärung verfasst, um Ihnen gemäß der Vorgaben der EU-Datenschutz-Grundverordnung zu erklären, welche Informationen wir sammeln, wie wir Daten verwenden und welche Entscheidungsmöglichkeiten Sie als Besucher dieser Webseite haben.
+
+Leider liegt es in der Natur der Sache, dass diese Erklärungen sehr technisch klingen, wir haben uns bei der Erstellung jedoch bemüht die wichtigsten Dinge so einfach und klar zu beschreiben.
+
+## Automatische Datenspeicherung
+Wenn Sie heutzutage Webseiten besuchen, werden gewisse Informationen automatisch erstellt und gespeichert, so auch auf dieser Webseite.
+
+Wenn Sie unsere Webseite so wie jetzt gerade besuchen, speichert unser Webserver (Computer auf dem diese Webseite gespeichert ist) automatisch Daten wie die IP-Adresse Ihres Gerätes, die Adressen der besuchten Unterseiten, Details zu Ihrem Browser (z.B. Chrome, Firefox, Edge,…) und Datum sowie Uhrzeit. Wir nutzen diese Daten nicht und geben Sie in der Regel nicht weiter, können jedoch nicht ausschließen, dass diese Daten beim Vorliegen von rechtswidrigem Verhalten eingesehen werden.
+
+## Ihre Rechte
+Ihnen stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu. Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren. In Österreich ist dies die Datenschutzbehörde, deren Webseiten Sie unter https://www.dsb.gv.at/ finden.
+
+## TLS-Verschlüsselung mit https
+Wir verwenden https um Daten abhörsicher im Internet zu übertragen. Durch den Einsatz von TLS (Transport Layer Security), einem Verschlüsselungsprotokoll zur sicheren Datenübertragung im Internet können wir den Schutz vertraulicher Daten sicherstellen. Sie erkennen die Benutzung dieser Absicherung der Datenübertragung am kleinen Schloßsymbol links oben im Browser und der Verwendung des Schemas https als Teil unserer Internetadresse.
+
+## Cookies
+Unsere Website verwendet HTTP-Cookies um nutzerspezifische Daten zu speichern.
+Ein Cookie ist ein kurzes Datenpaket, welches zwischen Webbrowser und Webserver ausgetauscht wird, für diese aber völlig bedeutungslos ist und erst für die Webanwendung, z. B. einen Online-Shop, eine Bedeutung erhält, etwa den Inhalt eines virtuellen Warenkorbes.
+Es gibt zwei Arten von Cookies: Erstanbieter-Cookies werden von unserer Website erstellt, Drittanbieter-Cookies werden von anderen Websites (z. B. Google Analytics) erstellt.
+Man unterscheidet drei Kategorien von Cookies: unbedingt notwendige Cookies um grundlegende Funktionen der Website sicherzustellen, funktionelle Cookies um die Leistung der Webseite sicherzustellen und zielorientierte Cookies um das Benutzererlebnis zu verbessern.
+Wir nutzen Cookies, um unsere Webseite nutzerfreundlicher zu gestalten. Einige Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese löschen. Sie ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen.
+Wenn Sie dies nicht wünschen, so können Sie Ihren Browser so einrichten, dass er Sie über das Setzen von Cookies informiert und Sie dies nur im Einzelfall erlauben.
+Sie können jederzeit Cookies, die sich bereits auf Ihrem Computer befinden, löschen oder Cookies deaktivieren. Die Vorgangsweise dazu ist nach Browser unterschiedlich, am besten Sie suchen die Anleitung in Google mit dem Suchbegriff „cookies löschen chrome“ oder „cookies deaktivieren chrome“ im Falle eines Chrome Browsers oder tauschen das Wort „chrome“ gegen den Namen Ihres Browsers, z. B. edge, firefox, safari aus.
+Wenn Sie uns generell nicht gestatten, Cookies zu nutzen, d.h. diese per Browsereinstellung deaktivieren, können manche Funktionen und Seiten nicht wie erwartet funktionieren.
+
+## Google Fonts Datenschutzerklärung
+Wir verwenden Google Fonts der Firma Google Inc. (1600 Amphitheatre Parkway Mountain View, CA 94043, USA) auf unserer Webseite. Die Verwendung von Google Fonts erfolgt ohne Authentisierung und es werden keine Cookies and die Google Fonts API gesendet. Sollten Sie ein Konto bei Google haben, werden keine Ihrer Google-Kontodaten an Google während der Nutzung von Google Fonts übermittelt. Google erfasst lediglich die Nutzung von CSS und der verwendeten Fonts und speichert diese Daten sicher. Mehr zu diesen und weiteren Fragen finden Sie auf https://developers.google.com/fonts/faq.
+
+Welche Daten von Google erfasst werden und wofür diese Daten verwendet werden, können Sie auf https://www.google.com/intl/de/policies/privacy/ nachlesen.
