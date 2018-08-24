@@ -4,9 +4,7 @@ title: Über mich
 sidebar_link: true
 ---
 
-
-
-![email]({{ "/assets/images/eugen-aberer-circle.png" }}){: .center-image }
+![me]({{ "/assets/images/eugen-aberer.png" }}){: .center-image }
 *IM Eugen Aberer*
 
 - Imker seit 1968, Imkermeister seit 2005
