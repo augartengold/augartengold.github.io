@@ -9,7 +9,9 @@ tags:
   - Wespe
 ---
 
+<p class="gold-message">
 Menschlicher Idealismus arbeitet gegen die Natur!
+</p>
 
 Voller Freude konnte ich im April beobachten, wie Einsiedlerbienen (= Wildbienen) in den Löchern einen Nahrungsvorrat aus Blütenpollen angelegt hatten. Auf jede eingetragene Pollen-Portion wurde dann ein Ei gelegt und anschließend verschlossen.
 
