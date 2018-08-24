@@ -12,7 +12,7 @@ sidebar_link: true
 - Elektronik-Entwickler in Pension
 - Vereinsmitglied im Bienenzuchtverein Hohenems (Vorarlberg)
 - Aktiver Züchter 1993-2000 in der ACA (**A**ustrian **C**arnica **A**ssociation)
-- Passives Mitglied bei der ZAC bis 2018 (**Z**entrale **A**rbeitsgemeinschaft **C**arnicazüchter)
+- Passives Mitglied bis 2018 bei der ZAC (**Z**entrale **A**rbeitsgemeinschaft **C**arnicazüchter)
 - Förderer der praktischen Vorarlberger Holz-Magazin Beute
 - Gründer der Show-Imkerei im Augarten Wien
 
