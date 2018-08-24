@@ -4,12 +4,6 @@ title: Über mich
 sidebar_link: true
 ---
 
-<!--
-<p class="message">
-  Ein gutes Zitat...
-</p>
--->
-
 Mein Name ist IM Eugen Aberer. Dies ist meine private Webseite.
 
 <div style="float:right;margin:0 0px 0px 0" markdown="1">
