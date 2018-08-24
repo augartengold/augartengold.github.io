@@ -4,11 +4,10 @@ title: Über mich
 sidebar_link: true
 ---
 
-Mein Name ist IM Eugen Aberer. Dies ist meine private Webseite.
 
-<div style="float:right;margin:0 0px 0px 0" markdown="1">
-![email]({{ "/assets/images/eugen-aberer.jpg" }})
-</div>
+
+![email]({{ "/assets/images/eugen-aberer-circle.png" }}){: .center-image }
+*IM Eugen Aberer*
 
 - Imker seit 1968, Imkermeister seit 2005
 - Imkerpraktikant in Imst/Tirol
@@ -19,7 +18,7 @@ Mein Name ist IM Eugen Aberer. Dies ist meine private Webseite.
 - Förderer der praktischen Vorarlberger Holz-Magazin Beute
 - Gründer der Show-Imkerei im Augarten Wien
 
-Bitte kontaktieren sie mich unter: 
+Bei Fragen kontaktieren sie mich bitte unter:
 ![email]({{ "/assets/images/internal/email.png" }})
 
 ## Aktuelle Projekte
