@@ -11,3 +11,11 @@ Schulung im "Au BürgerInnen Gemeinschaftsgarten" am historischer Standort von M
 - **Hygiene-Schulung:**
 Schulung im "Au BürgerInnen Gemeinschaftsgarten"; Leitlinie für eine gute Hygienepraxis in Imkereibetrieben.
 [Schulungsunterlagen]({{ site.url }}/assets/other/imkerei-hygiene.pdf)
+
+- **Betriebsweise:**
+Darstellung einer Betriebsweise für Vorarlberg und andere Regionen. Diese Betriebsweise ist dem natürlichen Verhalten der Bienen angepasst. Folgende Zielsetzungen werden erfüllt:
+    - Honigernte nur von neu ausgebauten Waben
+    - kein Absperrgitter notwendig
+    - Wabenerneuerung: 10 Waben jährlich
+    - Erweiterung unabhängig von dem Wetter
+    - Stressfreies imkern
