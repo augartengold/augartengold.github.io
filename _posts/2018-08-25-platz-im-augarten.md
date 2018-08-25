@@ -4,6 +4,9 @@ title:  "Historischer Platz im Augarten"
 categories: Augarten
 tags:
   - Augarten
+  - Show-Imkerei
+  - Filmarchiv
+  - Sommerkino
 ---
 
 Anbei eine Übersicht über die Lage der Show-Imkerei im Augarten Wien.
