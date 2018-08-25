@@ -4,7 +4,7 @@ title: Schulungen
 sidebar_link: true
 ---
 
-- **Imkerkei-Theorie:**
+- **Imkerei-Theorie:**
 Schulung im "Au BürgerInnen Gemeinschaftsgarten" am historischer Standort von Maria Theresia und Anton Janscha 1770.
 ([Schulungsunterlagen]({{ site.url }}/assets/other/imkerei-theorie.pdf))
 
