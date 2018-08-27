@@ -22,4 +22,4 @@ Darstellung einer Betriebsweise für Vorarlberg und andere Regionen. Diese Betri
 
 - **Wabenbau durch Bienen im Honig-Verkaufsglas:** Schulung in Anlehung an einen Vortrag beim 37ten Apimondia-Congress 2001 in Durban (Südafrika). An diesem spannenden Beispiel möchte ich zeigen, wie ein Imker verfahren muss, um hochwertige Bienen-Produkte zu erhalten. ([Schulungsunterlagen]({{ site.url }}/assets/other/wabenbau-im-verkaufsglas.pdf))
 
-- **Rahmenformen:** Die verschiedenen Rähmchen-Typen wurden bereits in folgenden Artikeln beschrieben: [DN-EM-Rahmen]({{ site.baseurl }}{% post_url /2018-05-21-dn-em-rahmen %}) und [Zander-Rahmen]({{ site.baseurl }}{% post_url /2018-05-22-zander-rahmen %})
+- **Rähmchenformen:** Die verschiedenen Rähmchen-Typen wurden bereits in folgenden Artikeln beschrieben: [DN-EM-Rahmen]({{ site.baseurl }}{% post_url /2018-05-21-dn-em-rahmen %}) und [Zander-Rahmen]({{ site.baseurl }}{% post_url /2018-05-22-zander-rahmen %})
