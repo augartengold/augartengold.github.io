@@ -15,7 +15,7 @@ Für viele Imker ist es ein großes Problem, die Waben außerhalb der Bienenvöl
 - Es gibt die kleine und die große Wachsmotte. Die Zeitspanne von der gefräßigen Raupe bis zum Schmetterling ist ca. 2 bis 3 Wochen.
 - Die Wachsmotte nistet sich bevorzugt in bebrütete Wabenbereiche oder in der Nähe von vorhandenem Pollen ein
 - Die zerstörerischen Aktivitäten stellt die Wachsmotte in der kälteren Zeit ein
-- Die Wachsmotte war bei dem "in Freiheit lebenden" Bienenvolk sehr nützlich und hilfreich. Wenn eine entwickelte Biene aus eine Zelle schlüpft, bleibt ein Kokon zurück. Nach mehrmaligem Bebrüten einer Zelle, kommt die Königin nicht mehr mit dem Hinterleib in die Zelle. Das Bienenvolk verlässt die Behausung. Die Wachsmotte nutzt die Nahrungsquelle.
+- Die Wachsmotte war bei dem "in Freiheit lebenden" Bienenvolk sehr nützlich und hilfreich. Wenn eine entwickelte Biene aus einer Zelle schlüpft, bleibt ein Kokon zurück. Nach mehrmaligem Bebrüten einer Zelle, kommt die Königin nicht mehr mit dem Hinterleib in die Zelle. Das Bienenvolk verlässt die Behausung. Die Wachsmotte nutzt die Nahrungsquelle.
 
 ## Lagerung der Waben ohne Chemie
 
