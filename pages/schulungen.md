@@ -20,3 +20,4 @@ Darstellung einer Betriebsweise für Vorarlberg und andere Regionen. Diese Betri
     - Erweiterung unabhängig von dem Wetter
     - Stressfreies imkern
 
+- **Wabenbau durch Bienen im Honig-Verkaufsglas:** Schulung in Anlehung an einen Vortrag beim 37ten Apimondia-Congress 2001 in Durban (Südafrika). An diesem spannenden Beispiel möchte ich zeigen, wie ein Imker verfahren muss, um hochwertige Bienen-Produkte zu erhalten. ([Schulungsunterlagen]({{ site.url }}/assets/other/wabenbau-im-verkaufsglas.pdf))
