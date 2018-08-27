@@ -3,7 +3,7 @@ layout: post
 title:  "Lagerung von Waben außerhalb der Bienenvölker"
 categories: Tipp
 tags:
-  - Waabenlagerung
+  - Wabenlagerung
   - Chemie
   - Wachsmotte
   - Wachsmottenfraß
