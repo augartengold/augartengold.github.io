@@ -20,7 +20,7 @@ Dieser sollte nicht aus Edelstahl, sondern aus normalen Eisendraht sein. Beim �
 ## Lange Ohren
 In den verwendeten Beuten sollten Rähmchen mit „Langen Ohren“ passen! Bei langen Ohren ist der Auflagedruck auf der Hand, bei schweren Honigwaben, „angenehmer“! Auch lässt sich die Wabe beim „Abklopfen“ oder „Abkehren“ der Bienen besser halten. Gewicht einer vollen Honigwabe bei „Zander“ bis zu 2,5kg.!
 
-![Rähmchen mit langen Ohren]({{ "/assets/images/raehmchen-lange-ohren.png" }})
+![Rähmchen mit langen Ohren]({{ "/assets/images/raehmchen-lange-ohren.png" }}){: .center-image }
 *Rähmchen mit "langen Ohren"*
 
 ## Drahtung

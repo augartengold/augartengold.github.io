@@ -25,7 +25,7 @@ Das Zandermaß wurde in einem anderen [Artikel]({{ site.baseurl }}{% post_url /2
 ## Wer hat es bekanntgemacht?
 Der Bienenpionier „Pater Romedius Girtler“ (1887-1976) verwendete es bei seinem „Muchstock“. Er lebte in „Lana“ (Südtirol) und bereiste zu Lehrveranstaltungen sehr oft Deutschland und Österreich.
 
-![Bienenmuch]({{ "/assets/images/bienenmuch.png" }})
+![Bienenmuch]({{ "/assets/images/bienenmuch.png" }}){: .center-image }
 *Der „Bienenmuch“ Rähmchentragleiste mit „kurzen Ohren“ (Quelle: Buch "Der Bienenmuch")*
 
 Nach [Wikipedia](https://de.wikipedia.org/wiki/R%C3%A4hmchen) sind auch folgende Formate üblich:

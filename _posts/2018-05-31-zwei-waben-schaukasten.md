@@ -9,12 +9,12 @@ tags:
 
 Warum soll man keine 2-Waben Schaukästen aufstellen?
 
-![2-Waben Schaukasten]({{ "/assets/images/zwei-waben-schaukasten.png" }})
+![2-Waben Schaukasten]({{ "/assets/images/zwei-waben-schaukasten.png" }}){: .center-image }
 *2-Waben Schaukasten*
 
 Ein Schaukasten in dieser Art ist sehr beliebt, um Nichtimkern Einblicke in das Bienenvolk zu zeigen. Diese Bienenbehausung entspricht aber nicht einem harmonischen Volkaufbau und einer idealen Holraumbesiedelung. Ein Bienenvolk würde nie in solch ein beengtes Raumvolumen einziehen. Man erkennt, dass die Bienen Wabengassen benötigen, um eine normale Volksentwicklung aufzubauen. Auch der Wärmehaushalt sowie die Sauerstoffversorgung über das kleine Flugloch ist nicht möglich. Im Bienenvolk entsteht Stress.
 
-![2-Waben Schaukasten und EWK]({{ "/assets/images/zwei-waben-schaukasten2.png" }})
+![2-Waben Schaukasten und EWK]({{ "/assets/images/zwei-waben-schaukasten2.png" }}){: .center-image }
 *Zwei-Waben Schaukasten mit Wabengassen (links) und EWK (rechts)*
 
 Beim Erstellen des Schaukasten wird die Königin aus einem Mehrwaben-Bienenvolk genommen. Nun kann

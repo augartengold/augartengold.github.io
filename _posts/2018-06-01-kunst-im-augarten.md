@@ -13,7 +13,7 @@ tags:
 
 Die Künstlerin „Raja Schwahn-Reichmann“ gestaltete die Vorderansicht des Freiständers in der "Show-Imkerei" AuBürgerInnenGarten Filmarchiv. 
 
-![Maria Theresia und Anton Janscha]({{ "/assets/images/augarten.jpg" }})
+![Maria Theresia und Anton Janscha]({{ "/assets/images/augarten.jpg" }}){: .center-image }
 *Kaiserin Maria Theresia mit Anton Janscha*
 
 Das Motiv ist angelehnt an den historischen Platz "Augarten". Das Bild zeigt die Kaiserin Maria Theresia, die mit der rechten Hand den Hofimkermeister Herrn Anton Jascha vorstellt. Dieser übergibt der Bienenkönigin einen Strauss Blumen, worauf er dafür ein Glas Honig bekommt.
@@ -26,14 +26,14 @@ Er wird immer mit dem Bienenkorb in der Hand dargestellt.
 
 Zudem hat die Künstlerin in Anlehnung an das Frontbild des Freiständers ein Honigetikett designt. Bildlich übergibt hier die Bienenkönigin dem Käufer das erworbene Honigglas.
 
-![Honigetikett von Raja]({{ "/assets/images/etikett.png" }})
+![Honigetikett von Raja]({{ "/assets/images/etikett.png" }}){: .center-image }
 *Honigetikett entworfen von Raja*
 
 ## Raja Schwahn-Reichmann
 
 Raja Schwahn-Reichmann ist in Wien-Leopoldstadt geboren, wo sie auch lebt und arbeitet.
 
-![Raja Schwahn-Reichmann]({{ "/assets/images/raja.jpg" }})
+![Raja Schwahn-Reichmann]({{ "/assets/images/raja.jpg" }}){: .center-image }
 *Raja Schwahn-Reichmann (Quelle: [Judith Stehlik](https://rajaschwahnreichmann.at/blog/2018/05/05/der-tanzlaubenhund-auf-der-milan-design-week-2018/))*
 
 Auszug aus: [https://rajaschwahnreichmann.at/](https://rajaschwahnreichmann.at/):

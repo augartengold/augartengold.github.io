@@ -15,7 +15,7 @@ Menschlicher Idealismus arbeitet gegen die Natur!
 
 Voller Freude konnte ich im April beobachten, wie Einsiedlerbienen (= Wildbienen) in den Löchern einen Nahrungsvorrat aus Blütenpollen angelegt hatten. Auf jede eingetragene Pollen-Portion wurde dann ein Ei gelegt und anschließend verschlossen.
 
-![Insektenhotel]({{ "/assets/images/insektenhotel.png" }})
+![Insektenhotel]({{ "/assets/images/insektenhotel.png" }}){: .center-image }
 *Insektenhotel, Wildbienen-Nest neben Honigbienen-Aufstellung im Augarten*
 
 Leider kam dann zwei Tage später eine „Wespen-Königin“ vorbei, die am „gedecktem Tisch“ alles ausraubte. Larven von Wespen werden mit Blütenpollen und Fleisch von toten oder erbeuteten Tieren gefüttert. 

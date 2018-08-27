@@ -10,7 +10,7 @@ tags:
 
 Der „Muschelgriff“ wird gerne bei Holzmagazinbeuten als Tragemöglichkeit eingefräst. Dieser „Muschelgriff“ hat aber bei Bienenbeuten einige massive Nachteile und ist daher nicht für praktische Bienenbehausungen geeignet. 
 
-![Muschelgriffe]({{ "/assets/images/muschelgriffe.png" }})
+![Muschelgriffe]({{ "/assets/images/muschelgriffe.png" }}){: .center-image }
 *Holzmagazinbeute mit Muschelgriffen*
 
 Nachfolgend liste ich die möglichen Nachteile auf.
