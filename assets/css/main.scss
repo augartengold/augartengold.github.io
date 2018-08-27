@@ -15,18 +15,27 @@ $sidebar-title-color: #FFD700;
     color: #7a7a7a;
 }
 
+.homepage-author-location {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 300;
+    color: #7a7a7a;
+    margin-bottom: 15px;
+}
+
 .homepage-cite {
     text-align: center;
     font-size: 1.25em;
     font-weight: 200;
     color: #7a7a7a;
+    margin-bottom: 35px;
 }
 
 .gold-message {
     @extend .message;
     background-color:gold;
     color: #525252;
-    font-weight: 500;
+    font-weight: 550;
 }
 
 img + em { 

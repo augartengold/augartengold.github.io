@@ -12,9 +12,12 @@ title: Home
 <div class="homepage-author">
 IM Eugen Aberer
 </div>
+<div class="homepage-author-location">
+Wien
+</div>
 ![me]({{ "/assets/images/eugen-aberer.png" }}){: .center-image }
 
 <div class="homepage-cite">
-Honigbienen leiden unter Monokulturen und Agrochemie in der Landwirtschaft sowie unter Kranheiten und Parasiten. Der grösste Stressfaktor fur die Bienen ist aber - der Imker.
-<br><i>Prof. Jürgen Tautz</i>
+Honigbienen leiden unter Monokulturen und Agrochemie in der Landwirtschaft sowie unter Krankheiten und Parasiten. Der grösste Stressfaktor fur die Bienen ist aber - der Imker.
+<br><i>Prof. Jürgen Tautz, Würzburg</i>
 </div>
