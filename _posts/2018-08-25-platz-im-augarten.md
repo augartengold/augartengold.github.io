@@ -11,7 +11,7 @@ tags:
 
 Anbei eine Übersicht über die Lage der Show-Imkerei im Augarten Wien.
 
-![Showimkerei-Lage]({{ "/assets/images/augarten-showimkerei-lage.jpg" }}){: .center-image }
+![Showimkerei-Lage]({{ "/assets/images/augarten-showimkerei-lage.png" }}){: .center-image }
 *Übersichtsplan Augarten*
 
 ## Legende zum Übersichtsplan
