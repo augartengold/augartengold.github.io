@@ -17,6 +17,7 @@ Anbei eine Übersicht über die Lage der Show-Imkerei im Augarten Wien.
 ## Legende zum Übersichtsplan
 
 Bushaltestelle 5B "Taborstrasse" oder U2 "Taborstrasse"
+
 1. "Muth" Wiener Sängerknaben/Filmarchiv und Eingang "BürgerInnengarten"
 2. Palettenpavillion
 3. Sommerkino: "Kino wie noch nie"
@@ -29,6 +30,7 @@ Bushaltestelle 5B "Taborstrasse" oder U2 "Taborstrasse"
 10. Englischer Garten der "Wiener Sängerknaben"
 11. Schule und Proberäume der "Wiener Sängerknaben"
 12. Barockgarten der "Wiener Sängerknaben"
+
 Bushaltestelle 5B „Obere Augartenstrasse“
 
 ## Auf den Spuren von Anton Janscha
