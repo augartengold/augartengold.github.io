@@ -18,6 +18,6 @@ Wien
 ![me]({{ "/assets/images/eugen-aberer.png" }}){: .center-image }
 
 <div class="homepage-cite">
-Honigbienen leiden unter Monokulturen und Agrochemie in der Landwirtschaft sowie unter Krankheiten und Parasiten. Der grösste Stressfaktor fur die Bienen ist aber - der Imker.
+Honigbienen leiden unter Monokulturen und Agrochemie in der Landwirtschaft sowie unter Krankheiten und Parasiten. Der grösste Stressfaktor für die Bienen ist aber - der Imker.
 <br><i>Prof. Jürgen Tautz, Würzburg</i>
 </div>
