@@ -30,19 +30,6 @@ Bienenvölker bei Regenwetter und Wind möglich. Dieses ist gelegentlich in der 
 vorteilhaft. Z.b. Beim Verschulen der Königinnen. Ein Freiständer kann so konstruiert werden, dass er
 auch für Wanderungen benutzbar ist. Siehe ([Plan einer Konstruktion]({{ site.url }}/assets/other/freistaender.pdf)), geeignet für EM und ZM.
 
-### Freiständer Materialzusammenstellung
-Nachfolgende Tabelle zeigt eine Materialzusammentellung (Preise in EUR, Stand Herbst, 2018)
-
-| Pos. | Anz. | Bez.                       | Hornbach EAN  | Preis einz. | Preis ges. |
-|------|------|----------------------------|---------------|------------:|-----------:|
-| 1    | 4    | U-Pfostenträger 101x150x60 | 2003896665009 | 3,90        | 15,60      |
-| 2    | 1,5  | Trapezblech Terrakotta     | 5948988040814 | 11,90       | 17,85      |
-| 3    | 2    | Scharniere 60x60mm         | 4004338345990 | 1,60        | 3,20       |
-| 4    | 1    | Balken geh. 60x100x4000    | 9002789502301 | 14,00       | 14,00      |
-| 5    | 2    | Balken geh. 60x100x3000    | 4049868900271 | 10,50       | 21,00      |
-| 6    | 12   | Glattbrett 80x18x2500      | 4005014000158 | 2,35        | 28,20      |
-|      |      |                            |               |             | **99,85**  |
-
 ## Sonderkonstruktionen
 Um den interessierten Personen Einblicke in ein Bienenvolk zu ermöglichen, wurde ein 25L. Glasballon
 mit einem Naturschwarm bevölkert. Zur Verdunkelung wurde dem Glasballon ein „blaues“ Dach
