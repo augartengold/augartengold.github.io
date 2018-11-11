@@ -10,6 +10,7 @@ sidebar_link: true
 Bei Fragen und/oder Anregungen kontaktieren sie mich bitte unter:
 ![email]({{ "/assets/images/internal/email.png" }})
 
+- Geburtsjahr: 220 Jahre nach Hofimkermeister Anton Janscha
 - Imker seit 1968, Imkermeister seit 2005
 - Imkerpraktikant in Imst/Tirol
 - Elektronik-Entwickler in Pension
