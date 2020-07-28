@@ -12,9 +12,9 @@ tags:
   - Fachzeitschrift
 ---
 
-Veröffentlichung von drei Artikeln in der Zeitschrift [Imkern heute](http://meinesteirische.at) (Ausgabe 5 - Herbst/Winter 2018) zu den Themen:
+Veröffentlichung von drei Artikeln in der Zeitschrift [Imkern heute](http://meinesteirische.at){:target="_blank"} (Ausgabe 5 - Herbst/Winter 2018) zu den Themen:
 
-- "Ohrmarken für die Bienenkönigin" (Seite 10)
+- "Ohrmarken für die Bienenkönigin" (Seite 10) ([Artikel]({{ site.url }}/assets/other/imkern-heute-5-2018.pdf){:target="_blank"})
 - "Warum sollte man keine Sonnenwachsschmelzer verwenden!" (Seite 13)
 - "Vergleich der Rähmchenausführungen" (Seite 14)
 

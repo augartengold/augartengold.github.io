@@ -34,9 +34,9 @@ Zudem hat die Künstlerin in Anlehnung an das Frontbild des Freiständers ein Ho
 Raja Schwahn-Reichmann ist in Wien-Leopoldstadt geboren, wo sie auch lebt und arbeitet.
 
 ![Raja Schwahn-Reichmann]({{ "/assets/images/raja.jpg" }}){: .center-image }
-*Raja Schwahn-Reichmann (Quelle: [Judith Stehlik](https://rajaschwahnreichmann.at/blog/2018/05/05/der-tanzlaubenhund-auf-der-milan-design-week-2018/))*
+*Raja Schwahn-Reichmann (Quelle: [Judith Stehlik](https://rajaschwahnreichmann.at/blog/2018/05/05/der-tanzlaubenhund-auf-der-milan-design-week-2018/){:target="_blank"})*
 
-Auszug aus: [https://rajaschwahnreichmann.at/](https://rajaschwahnreichmann.at/):
+Auszug aus: [https://rajaschwahnreichmann.at](https://rajaschwahnreichmann.at){:target="_blank"}:
 
 > Raja Schwahn-Reichmanns Reich ist jenes der Faune und Engel, der Satyre und Nymphen, der
 > Teufelchen, Lustknaben und Kurtisanen. Seit Jahren setzt sie sich in Wien für eine Renaissance der antiken Orgien 

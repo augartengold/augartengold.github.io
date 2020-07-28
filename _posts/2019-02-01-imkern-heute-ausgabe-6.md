@@ -10,13 +10,15 @@ tags:
   - Klosterimkerei
   - Imkern heute
   - Fachzeitschrift
+  - Königinnenkennzeichnung
 ---
 
-Veröffentlichung von vier Artikeln in der Zeitschrift [Imkern heute](http://meinesteirische.at) (Ausgabe 6 - Frühjahr 2019) zu den Themen:
+Veröffentlichung von vier Artikeln in der Zeitschrift [Imkern heute](http://meinesteirische.at){:target="_blank"} (Ausgabe 6 - Frühjahr 2019) zu den Themen:
 
 - "Insektenhotels" (Seite 12)
-- "Hyperthermie-Varroabekämpfung" (Seite 14)
-- "Buckfast. Erinnerungen an die Klosterimkerei" (Seite 31)
-- "Ein Kindergarten für Bienenköniginnen"
+- "Hyperthermie-Varroabekämpfung" (Seite 20)
+- "Neue Königinnenkennzeichnnung" (Seite 22) ([Artikel]({{ site.url }}/assets/other/imkern-heute-6-2019.pdf){:target="_blank"})
+- "Buckfast. Erinnerungen an die Klosterimkerei" (Seite 25)
+- "Ein Kindergarten für Bienenköniginnen" (Seite 15)
 
 Das Thema "Insektenhotels" wurde zudem [hier]({{ site.baseurl }}{% post_url /2018-05-26-insektenhotels %}) thematisiert.
