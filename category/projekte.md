@@ -4,7 +4,7 @@ title: Projekte
 category: Projekte
 ---
 
-Nachfolgend werden aktuelle Projekte aufgelistet. 
+Nachfolgend werden aktuelle und abgeschlossene Projekte aufgelistet. 
 
 - "Neue Königinnenkennzeichnung" (Projekt der Biene Österreich)
 
