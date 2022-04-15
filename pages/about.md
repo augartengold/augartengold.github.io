@@ -36,6 +36,9 @@ Bei Fragen und/oder Anregungen kontaktieren sie mich bitte unter:
 ![Meisterbrief]({{ "/assets/images/meisterbrief.png" }}){: .center-image }
 *Meisterbrief*
 
+![Demeter Grundkurs]({{ "/assets/images/demeter-grundkurs.jpg" }}){: .center-image }
+*Demeter Grundkurs*
+
 ## Aktuelle Projekte
 
 - Queencode: 
