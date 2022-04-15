@@ -36,6 +36,8 @@ Bei Fragen und/oder Anregungen kontaktieren sie mich bitte unter:
 ![Meisterbrief]({{ "/assets/images/meisterbrief.png" }}){: .center-image }
 *Meisterbrief*
 
+- **Demeter Grundkurs:** Besuch des Demeter Grundkurs „Grundlagen der biologischen Landwirtschaft“ im Februar 2022
+
 ![Demeter Grundkurs]({{ "/assets/images/demeter-grundkurs.jpg" }}){: .center-image }
 *Demeter Grundkurs*
 
