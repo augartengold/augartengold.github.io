@@ -43,7 +43,7 @@ Bei Fragen und/oder Anregungen kontaktieren sie mich bitte unter:
 
 ## Aktuelle Projekte
 
-- [Electronic Bee-Smoker]({{ site.baseurl }}{% link projekte/2022/04/20/bee-smoker.html %})
+- [Electronic Bee-Smoker]({{ site.baseurl }}{% link /projekte/2022/04/20/bee-smoker.html %})
 
 - Queencode:
-["Wir setzen der Königin eine Krone auf - 1"](https://www.biene-oesterreich.at/queen-code-wir-setzen-der-koenigin-eine-krone-auf+2500+1136954){:target="_blank"}
+["Wir setzen der Königin eine Krone auf"](https://www.biene-oesterreich.at/queen-code-wir-setzen-der-koenigin-eine-krone-auf+2500+1136954){:target="_blank"}
