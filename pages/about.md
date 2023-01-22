@@ -45,7 +45,7 @@ Bei Fragen und/oder Anregungen kontaktieren sie mich bitte unter:
 Veröffentlichung "Elektronisches Tabakrauch-Handgerät" als Patent AT17749U1.
 
 ![Elektronisches Tabakrauch-Handgerät]({{ "/assets/images/ebs.png" }}){: .center-image }
-*Elektronisches Tabakrauch-Handgerät*
+*Elektronisches Tabakrauch-Handgerät (Eletronic Bee-Smoker)*
 
 ## Aktuelle Projekte
 
