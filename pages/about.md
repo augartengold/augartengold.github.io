@@ -42,9 +42,9 @@ Bei Fragen und/oder Anregungen kontaktieren sie mich bitte unter:
 *Demeter Grundkurs*
 
 ## Aktuelle Projekte
-Veröffentlichung "Elektronisches Tabakrauch-Handgerät" als Patent AT17749U1.
+Veröffentlichung "Elektronisches Tabakrauch-Handgerät" als Patent [AT17749U1](http://seeip.patentamt.at/Publication/PdfDocument/?DocumentId=eac57232-757b-45db-972f-4f48cab76908).
 
-![Elektronisches Tabakrauch-Handgerät]({{ "/assets/images/ebs.png" }}){: .center-image }
+![Elektronisches Tabakrauch-Handgerät]({{ "/assets/images/ebs-color.jpg" }}){: .center-image }
 *Elektronisches Tabakrauch-Handgerät (Electronic Bee-Smoker)*
 
 ## Aktuelle Projekte
