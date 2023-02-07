@@ -3,7 +3,6 @@ layout: post
 title:  Gebrauchsmusterpatent Tabakrauch-Handgerät
 categories: Publikationen
 tags:
-  - 2023
   - Tabakrauch-Handgerät
   - Patent
   - Gebrauchsmusterpatent
