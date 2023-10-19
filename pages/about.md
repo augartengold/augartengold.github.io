@@ -21,11 +21,11 @@ Bei Fragen und/oder Anregungen kontaktieren sie mich bitte unter:
 - Gründer der Show-Imkerei im Augarten Wien
 
 ## Show-Imkerei am Augartenspitz
-<br>
+Im Wiener-Augartenspitz befindet sich seit 2016 eine Show-Imkerei die Menschen jeden Alters fasziniert.
 <iframe width="720" height="405" class="center-image" src="https://www.youtube.com/embed/RjpQZaS5THs?si=nZXDKovKijOgK0vD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Bericht in den Vorarlberger Nachrichten
-<br>
+Nachfolgender Bericht wurde in den Vorarlberger Nachrichten (VN) veröffentlicht.
 ![VN-Bericht]({{ "/assets/images/vn-artikel.png" }}){: .center-image }
 *Bericht in den Vorarlberger Nachrichten*
 
