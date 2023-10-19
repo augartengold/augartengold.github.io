@@ -20,6 +20,15 @@ Bei Fragen und/oder Anregungen kontaktieren sie mich bitte unter:
 - Förderer der praktischen Vorarlberger Holz-Magazin Beute
 - Gründer der Show-Imkerei im Augarten Wien
 
+## Show-Imkerei am Augartenspitz
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RjpQZaS5THs?si=nZXDKovKijOgK0vD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Bericht in den Vorarlberger Nachrichten
+
+![VN-Bericht]({{ "/assets/images/vn-artikel.png" }}){: .center-image }
+*Bericht in den Vorarlberger Nachrichten*
+
 ## Ehrungen und Verdienste
 - **Bekämpfung amerikanische Faulbrut:** Dank des Bienenzuchtvereins Hohenems für die Bekämpfung der Amerikanischen Faulbrut als Bienenwart im Jahre 1976. Überreichung eines Fachbuches mit Widmung.
 
