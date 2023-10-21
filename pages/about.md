@@ -22,7 +22,7 @@ Bei Fragen und/oder Anregungen kontaktieren sie mich bitte unter:
 
 ## Show-Imkerei am Augartenspitz
 Im Wiener-Augartenspitz befindet sich seit 2016 eine Show-Imkerei die Menschen jeden Alters fasziniert.
-<iframe width="720" height="405" class="center-image" src="https://www.youtube.com/embed/RjpQZaS5THs?si=nZXDKovKijOgK0vD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/RjpQZaS5THs' frameborder='0' allowfullscreen></iframe></div>
 
 ## Bericht in den Vorarlberger Nachrichten
 Nachfolgender Bericht wurde in den Vorarlberger Nachrichten (VN) veröffentlicht.
