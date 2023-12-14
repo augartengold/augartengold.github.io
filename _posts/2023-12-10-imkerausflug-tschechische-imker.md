@@ -13,9 +13,9 @@ Am 27.10.2023 waren vierzig ImkerInnen aus Tschechien zu Gast. Die Veranstaltung
 
 Vielen Dank für den Besuch!
 
-![Besuch Janscha 1]({{ "/assets/images/besuch_janscha1" }}){: .center-image }
+![Besuch Janscha 1]({{ "/assets/images/besuch_janscha1.jpg" }}){: .center-image }
 
-![Besuch Janscha 2]({{ "/assets/images/besuch_janscha2" }}){: .center-image }
+![Besuch Janscha 2]({{ "/assets/images/besuch_janscha2.jpg" }}){: .center-image }
 
-![Besuch Janscha 3]({{ "/assets/images/besuch_janscha3" }}){: .center-image }
+![Besuch Janscha 3]({{ "/assets/images/besuch_janscha3.jpg" }}){: .center-image }
 
