@@ -4,6 +4,10 @@ title: Schulungen
 sidebar_link: true
 ---
 
+- **Eindeutigen Königinnenkennzeichnung**
+Im Oktober 2025 wird es in Linz eine Information zur Anwendung der "Eindeutigen Königinnenkennzeichnung" geben. Die Veranstaltung wird von der "Biene Österreich" organisiert. Vortragender ist der Entwickler IM Eugen Aberer. Es wird jedes Detail praktiziert. Die Veranstaltung soll die Einfachheit und Wichtigkeit aufzeigen.
+Schulungsunterlagen folgen zeitnah.
+
 - **Imkerei-Theorie:**
 Schulung im "Au BürgerInnen Gemeinschaftsgarten" am historischer Standort von Maria Theresia und Anton Janscha 1770.
 ([Schulungsunterlagen]({{ site.url }}/assets/other/imkerei-theorie.pdf))
