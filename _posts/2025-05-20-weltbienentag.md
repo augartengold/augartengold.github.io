@@ -3,7 +3,7 @@ layout: post
 title:  "Weltbienentag 2025"
 tags:
   - Weltbienentag
-  - 2025
+  - '2025'
   - Glasballon
   - Prater
   - Augartenlady
@@ -26,10 +26,10 @@ Am 20. Mai wird alljährlich der Weltbienentag gefeiert. Nachfolgend dargestellt
 ![Glücksrad]({{ "/assets/images/gluecksrad.jpg" }}){: .center-image }
 *Glücksrad*
 
-![Anton Janscha]({{ "/assets/images/anton-janscha.jpg" }}){: .center-image }
+![Anton-Janscha]({{ "/assets/images/anton-janscha.jpg" }}){: .center-image }
 *Anton Janscha*
 
-![Glasballon innen]({{ "/assets/images/glasballon-innen.jpg" }}){: .center-image }
+![Glasballon-innen]({{ "/assets/images/glasballon-innen.jpg" }}){: .center-image }
 *Glasballon von innen*
 
 ![Honiginformation]({{ "/assets/images/honiginformation.jpg" }}){: .center-image }
