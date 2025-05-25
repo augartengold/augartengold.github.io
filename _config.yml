@@ -57,7 +57,7 @@ plugins:
 #   - vendor/ruby/
 
 # Custom vars
-# version:            3.5.3
+# version:            3.10.0
 sidebar_home_link:  true
 sidebar_blog_link:  '/blog'     # By default, your home page is your blog
                                 # page. If you change your paginate_path,
