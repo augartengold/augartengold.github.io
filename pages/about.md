@@ -50,5 +50,11 @@ Nachfolgender Bericht wurde in den Vorarlberger Nachrichten (VN) veröffentlicht
 ![Demeter Grundkurs]({{ "/assets/images/demeter-grundkurs.jpg" }}){: .center-image }
 *Demeter Grundkurs*
 
-- **Projekte:** 
+## Patente
+Veröffentlichung "Elektronisches Tabakrauch-Handgerät" als Patent [AT17749U1](http://seeip.patentamt.at/Publication/PdfDocument/?DocumentId=eac57232-757b-45db-972f-4f48cab76908).
+
+![Elektronisches Tabakrauch-Handgerät]({{ "/assets/images/ebs-color.jpg" }}){: .center-image }
+*Elektronisches Tabakrauch-Handgerät (Electronic Bee-Smoker)*
+
+## Projekte
 Aktuelle und abgeschlossene Projekte werden unter der [Projektseite](https://augartengold.at/category/projekte.html) aufgelistet.

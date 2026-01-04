@@ -7,12 +7,6 @@ category: Projekte
 Nachfolgend werden aktuelle und abgeschlossene Projekte aufgelistet. 
 
 ## Aktuelle Projekte
-Veröffentlichung "Elektronisches Tabakrauch-Handgerät" als Patent [AT17749U1](http://seeip.patentamt.at/Publication/PdfDocument/?DocumentId=eac57232-757b-45db-972f-4f48cab76908).
-
-![Elektronisches Tabakrauch-Handgerät]({{ "/assets/images/ebs-color.jpg" }}){: .center-image }
-*Elektronisches Tabakrauch-Handgerät (Electronic Bee-Smoker)*
-
-## Aktuelle Projekte
 
 - [Electronic Bee-Smoker (wird derzeit für die Serienreife überarbeitet)](/projekte/2022/04/20/bee-smoker.html)
 - [BKSL - Bienenköniginnen-Scan-Lineal (in Entwicklung)](/assets/other/bksl-info.pdf)
