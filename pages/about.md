@@ -65,4 +65,4 @@ Veröffentlichung "Elektronisches Tabakrauch-Handgerät" als Patent [AT17749U1](
 ## Abgeschlossene Projekte
 
 - Queen-Codes (seit 2020 abgeschlossen):
-["Queen-Codes: Wir setzen der Königin eine Krone auf - Seit 2020 abgeschlossen"](https://www.bienenzucht.info/queen-code-wir-setzen-der-konigin-eine-krone-auf/){:target="_blank"}
+["Queen-Codes: Wir setzen der Königin eine Krone auf"](https://www.bienenzucht.info/queen-code-wir-setzen-der-konigin-eine-krone-auf/){:target="_blank"}
