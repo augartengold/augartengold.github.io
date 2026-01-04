@@ -50,18 +50,5 @@ Nachfolgender Bericht wurde in den Vorarlberger Nachrichten (VN) veröffentlicht
 ![Demeter Grundkurs]({{ "/assets/images/demeter-grundkurs.jpg" }}){: .center-image }
 *Demeter Grundkurs*
 
-## Aktuelle Projekte
-Veröffentlichung "Elektronisches Tabakrauch-Handgerät" als Patent [AT17749U1](http://seeip.patentamt.at/Publication/PdfDocument/?DocumentId=eac57232-757b-45db-972f-4f48cab76908).
-
-![Elektronisches Tabakrauch-Handgerät]({{ "/assets/images/ebs-color.jpg" }}){: .center-image }
-*Elektronisches Tabakrauch-Handgerät (Electronic Bee-Smoker)*
-
-## Aktuelle Projekte
-
-- [Electronic Bee-Smoker (wird derzeit für die Serienreife überarbeitet)](/projekte/2022/04/20/bee-smoker.html)
-- [BKSL - Bienenköniginnen-Scan-Lineal (in Entwicklung)](/assets/other/bksl-info.pdf)
-- Wildkamera für den Glasballon (in Entwicklung)
-
-## Abgeschlossene Projekte
-
-- ["Queen-Codes: Wir setzen der Königin eine Krone auf (seit 2020 abgeschlossen)"](https://www.bienenzucht.info/queen-code-wir-setzen-der-konigin-eine-krone-auf/){:target="_blank"}
+- **Projekte:** 
+Aktuelle und abgeschlossene Projekte werden unter der [Projektseite](https://augartengold.at/category/projekte.html) aufgelistet.

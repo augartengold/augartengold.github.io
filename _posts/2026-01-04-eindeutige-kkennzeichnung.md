@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Warum ist die "Eindeutige Bienenköniginnenkennzeichnung" in der Königinnenzucht sehr wichtig?
+categories: Projekte
 tags:
   - Königinnenkennzeichnung
   - Sulzwiese

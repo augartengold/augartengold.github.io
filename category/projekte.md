@@ -6,8 +6,20 @@ category: Projekte
 
 Nachfolgend werden aktuelle und abgeschlossene Projekte aufgelistet. 
 
-- Electronic Bee-Smoker (Alternative zum traditionellen Smoker)
-- "Neue Königinnenkennzeichnung" (Projekt der Biene Österreich)
-- [Kindergarten für Bienenköniginnen]({{ site.url }}/assets/other/kindergarten_MA42.pdf)
+## Aktuelle Projekte
+Veröffentlichung "Elektronisches Tabakrauch-Handgerät" als Patent [AT17749U1](http://seeip.patentamt.at/Publication/PdfDocument/?DocumentId=eac57232-757b-45db-972f-4f48cab76908).
+
+![Elektronisches Tabakrauch-Handgerät]({{ "/assets/images/ebs-color.jpg" }}){: .center-image }
+*Elektronisches Tabakrauch-Handgerät (Electronic Bee-Smoker)*
+
+## Aktuelle Projekte
+
+- [Electronic Bee-Smoker (wird derzeit für die Serienreife überarbeitet)](/projekte/2022/04/20/bee-smoker.html)
+- [BKSL - Bienenköniginnen-Scan-Lineal (in Entwicklung)](/assets/other/bksl-info.pdf)
+- Wildkamera für den Glasballon (in Entwicklung)
+
+## Abgeschlossene Projekte
+
+- ["Queen-Codes: Wir setzen der Königin eine Krone auf (seit 2020 abgeschlossen)"](https://www.bienenzucht.info/queen-code-wir-setzen-der-konigin-eine-krone-auf/){:target="_blank"}
 
 Für diese Kategorien wurden folgende Informationen veröffentlicht:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Ankündigung: Schulung eindeutige Königinnenkennzeichnung"
+categories: Projekte
 tags:
   - Schulung
   - Königinnenkennzeichnung
