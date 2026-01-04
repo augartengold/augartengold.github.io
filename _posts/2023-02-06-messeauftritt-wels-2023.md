@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Neue Königinnenkennzeichnung - Messeauftritt Wels 2023"
+title:  Neue Königinnenkennzeichnung - Messeauftritt Wels 2023
 categories: Projekte
 tags:
   - Messe

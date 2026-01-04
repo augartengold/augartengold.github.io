@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Neue Königinnenkennzeichnung - Messeauftritt 2019"
+title:  Neue Königinnenkennzeichnung - Messeauftritt 2019
 categories: Projekte
 tags:
   - Messe

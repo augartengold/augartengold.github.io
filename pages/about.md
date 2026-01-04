@@ -58,6 +58,11 @@ Veröffentlichung "Elektronisches Tabakrauch-Handgerät" als Patent [AT17749U1](
 
 ## Aktuelle Projekte
 
-- [Electronic Bee-Smoker](/projekte/2022/04/20/bee-smoker.html)
-- Queencode:
-["Wir setzen der Königin eine Krone auf"](https://www.bienenzucht.info/queen-code-wir-setzen-der-konigin-eine-krone-auf/){:target="_blank"}
+- [Electronic Bee-Smoker (wird derzeit für die Serienreife überarbeitet)](/projekte/2022/04/20/bee-smoker.html)
+- [BKSL - Bienenköniginnen-Scan-Lineal (in Entwicklung)](/assets/other/bksl-info.pdf)
+- Wildkamera für den Glasballon (in Entwicklung)
+
+## Abgeschlossene Projekte
+
+- Queen-Codes (seit 2020 abgeschlossen):
+["Queen-Codes: Wir setzen der Königin eine Krone auf - Seit 2020 abgeschlossen"](https://www.bienenzucht.info/queen-code-wir-setzen-der-konigin-eine-krone-auf/){:target="_blank"}

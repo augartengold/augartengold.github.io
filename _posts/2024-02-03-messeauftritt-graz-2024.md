@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Neue Königinnenkennzeichnung - Messeauftritt 2024"
+title:  Neue Königinnenkennzeichnung - Messeauftritt 2024
 categories: Projekte
 tags:
   - Messe

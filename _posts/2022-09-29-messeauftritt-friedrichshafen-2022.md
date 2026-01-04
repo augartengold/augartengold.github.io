@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Neue Königinnenkennzeichnung - Messeauftritt 2022"
+title:  Neue Königinnenkennzeichnung - Messeauftritt 2022
 categories: Projekte
 tags:
   - Messe
