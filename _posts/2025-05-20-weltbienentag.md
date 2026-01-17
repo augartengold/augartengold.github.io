@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Weltbienentag 2025"
+categories: Veranstaltungen
 tags:
   - Weltbienentag
   - '2025'

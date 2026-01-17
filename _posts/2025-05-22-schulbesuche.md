@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Schulklassen zu Besuch"
+categories: Veranstaltungen
 tags:
   - Schulbesuche
   - Schule

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Neue Königinnenkennzeichnung - Messeauftritt 2024
-categories: Projekte
+categories: Veranstaltungen
 tags:
   - Messe
   - Graz
