@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Honigwasser sprühen
+title:  Zuckerwasser sprühen
 categories: Tipp
 tags:
   - Zuckerwasser
